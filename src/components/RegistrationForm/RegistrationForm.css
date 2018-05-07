@@ -1,0 +1,14 @@
+.emailField {
+    border-radius: 50px;
+    background: transparent;
+    color: #fff;
+    text-align: left;
+    padding: 5px 10px;
+}
+.submitButton {
+    border-radius: 50px;
+    background: black;
+    color: #fff;
+    padding: 5px 10px;
+    margin-left: 15px;
+}
